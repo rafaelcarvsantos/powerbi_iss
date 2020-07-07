@@ -4,7 +4,7 @@
 
 Visualização em Power BI a qual permite acompanhar a posição atual da Estação Espacial Internacional (ISS em inglês). O projeto foi discontinuado em maio de 2019.
 
-## Screenshots
+## Screenshot
 
 <img src="https://i.imgur.com/XG515X6.png?1">
 
